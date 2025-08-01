@@ -1,0 +1,9 @@
+/* other CSS for your theme goes here */
+
+.secondary-nav {
+  background-image: url("/bg.png");
+}
+
+.router-link-active {
+  @apply bg-white p-2
+}
