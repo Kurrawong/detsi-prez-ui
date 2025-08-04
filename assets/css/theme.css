@@ -19,3 +19,7 @@ a.item-link:not(.btn) {
 a:not(.btn, .nav-btn) {
   @apply text-primary !important;
 }
+
+a.footer-link {
+  @apply text-white font-sans text-[10.7px] font-[450] tracking-tight !important;
+}
