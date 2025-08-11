@@ -10,7 +10,8 @@ const showDebugPanel = defineModel<boolean>();
 
 <template>
   <div class="border-b relative bg-[#007eb1]">
-    <div class="bg-[#003647] h-11 secondary-nav"></div>
+    
+    <!-- <div class="bg-[#003647] h-11 secondary-nav"></div> -->
 
     <div class="container mx-auto px-4 pt-2 min-h-[67px]">
       <img src="/qg-coa-white.svg" alt="Queensland Government" class="h-[50px]" />
